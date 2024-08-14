@@ -59,3 +59,10 @@ Open folder with all files -> open masterFile -> Select Run
 
 # NOTE
 > You need to have all files downloaded and in a file to run
+
+# Global Variables
+There is a file named globalVars in both the GET and the POST folders. 
+
+This is an important file. Any call that takes an input, the data comes from this file. 
+
+Feel free to check it out and replace it's data with new data for better testing.
