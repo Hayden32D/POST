@@ -1,6 +1,8 @@
 # Introduction 
 This project automatically tests the GET requests on the Swagger API website
 
+Use the folder called "ManyBuild POST"
+
 # problem TO-DO:
 I can't seem to get the VScode to work in Git with the YAML even though it is the same code
 
